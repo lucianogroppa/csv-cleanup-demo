@@ -1,0 +1,5 @@
+sku,name,category,price_usd,stock,source_row
+SKU-101,Canvas Pouch,Accessories,12.50,8,2
+SKU-102,Desk Tray,Home,24.00,6,3
+SKU-106,'=SUM(1+1),Accessories,9.99,2,9
+SKU-108,Pen Cup,Home,8.00,0,11

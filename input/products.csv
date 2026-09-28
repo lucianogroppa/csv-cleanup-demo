@@ -1,0 +1,11 @@
+sku,name,category,price_usd,stock
+ sku-101 , Canvas Pouch , accessory ,12.5,08
+SKU-102,Desk Tray,Home,24.00,6
+SKU-103,Paper Clip Set,Stationery,3.50,4
+sku-101,Canvas  Pouch,Accessories,12.50,8
+SKU-103,Paper Clip Set,Stationery,3.50,6
+SKU-104,Glass Jar,Home,"12,00",7
+SKU-105,Notebook,Stationery,12,none
+SKU-106,=SUM(1+1),Accessories,9.99,2
+SKU-107,Desk Pad,office,15.00,3
+SKU-108,Pen Cup,Home,8.00,0

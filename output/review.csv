@@ -1,0 +1,7 @@
+source_row,reason,sku,name,category,price_usd,stock
+4,Conflicting SKU; review all versions,SKU-103,Paper Clip Set,Stationery,3.50,4
+5,Exact duplicate of row 2 after normalization,sku-101,Canvas  Pouch,Accessories,12.50,8
+6,Conflicting SKU; review all versions,SKU-103,Paper Clip Set,Stationery,3.50,6
+7,Price must be nonnegative USD with at most two decimals,SKU-104,Glass Jar,Home,"12,00",7
+8,Stock must be a nonnegative whole number,SKU-105,Notebook,Stationery,12,none
+10,Unknown category,SKU-107,Desk Pad,office,15.00,3
